@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Default Suite" data-provider-thread-count="5">
+    <test name="testProj">
+        <classes>
+            <class name="runners.RegressionRunner"/>
+        </classes>
+    </test> <!-- Framework -->
+</suite> <!-- Default Suite -->
