@@ -1,6 +1,7 @@
 Feature: Test
 
-    Scenario: "ewrpprffpr
-      Given print Given
-      When print When
-      Then print Then
+  @ui
+  Scenario: Search Test
+    Given print Given
+    When print When
+    Then print Then
